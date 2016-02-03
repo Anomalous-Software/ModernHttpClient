@@ -5,13 +5,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
-using Square.OkHttp;
 using Javax.Net.Ssl;
 using System.Text.RegularExpressions;
 using Java.IO;
 using System.Security.Cryptography.X509Certificates;
 using System.Globalization;
 using Android.OS;
+using OkHttp;
 
 namespace ModernHttpClient
 {
